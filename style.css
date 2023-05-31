@@ -1,0 +1,38 @@
+body{
+    margin:0%;
+}
+.navbar{
+    padding:1.6%
+}
+.navbar img {
+   vertical-align: middle;
+   margin-left:3%
+}
+.navbar a{
+    margin-left: 2%;
+    text-decoration: none;
+    color:black;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size:1.1rem;
+}
+#sign{
+    color:white;
+    margin-left: 5% !important;
+    padding:0.7% 0.2% 0.7% 1%;
+    font-size:0.9rem;
+    background-color: aqua;
+    border-radius: 25px;
+}
+#sign i{
+    margin-left:0.5%;
+    border-radius: 50%;
+    padding:0.4%;
+    font-size:1.1rem;
+    background-color:rgb(6, 6, 123);
+}
+#sign:hover{
+    background-color: rgb(6, 6, 123);
+}
+#sign:hover i{
+    background-color: aqua;
+}
